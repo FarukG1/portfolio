@@ -1,0 +1,40 @@
+.custom-nav {
+  height: 100vh;
+  width: 60px;
+}
+
+.icons-active {
+  filter: invert(1);
+  height: 30px;
+}
+
+.nav-icon {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.file-selector {
+}
+
+.editor {
+  background-color: rgb(30,30,30);
+  height: 100vh;
+  width: 100%;
+}
+
+.tab-section {
+  background-color: rgb(38,38,38);
+  height: 100vh;
+  width: 10%;
+}
+
+.icons-active {
+  filter: invert(1);
+  height: 30px;
+}
+
+.icons-deactive {
+  filter: invert(50%);
+  height: 30px;
+}
+

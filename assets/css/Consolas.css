@@ -1,0 +1,44 @@
+@font-face {
+	font-family: 'Consolas';
+	src: url(/assets/fonts/Consolas.woff2) format('woff2'),
+	url(/assets/fonts/Consolas.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Consolas';
+	src: url(/assets/fonts/Consolas-Italic.woff2) format('woff2'),
+	url(/assets/fonts/Consolas-Italic.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Consolas';
+	src: url(/assets/fonts/Consolas-Italic.woff2) format('woff2'),
+	url(/assets/fonts/Consolas-Italic.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Consolas';
+	src: url(/assets/fonts/Consolas-Bold.woff2) format('woff2'),
+	url(/assets/fonts/Consolas-Bold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Consolas';
+	src: url(/assets/fonts/Consolas-BoldItalic.woff2) format('woff2'),
+	url(/assets/fonts/Consolas-BoldItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
