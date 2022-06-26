@@ -1,2 +1,1 @@
-# portfolio
-My portfolio
+# My Portfolio inspired by Visual Studio Code
