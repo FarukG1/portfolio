@@ -3,11 +3,6 @@
   width: 60px;
 }
 
-.icons-active {
-  filter: invert(1);
-  height: 30px;
-}
-
 .nav-icon {
   margin-bottom: 10px;
   margin-top: 10px;
@@ -33,5 +28,40 @@
 .icons-deactive {
   filter: invert(50%);
   height: 30px;
+}
+
+.js-display {
+  display: none;
+}
+
+.text-section {
+  background-color: rgb(30,30,30);
+  height: 100vh;
+  width: 100%;
+}
+
+.open-button {
+  border-style: none;
+}
+
+.close-button {
+  border-style: none;
+  height: 100%;
+}
+
+.div-deactive {
+  background: rgb(45,45,45);
+}
+
+.div-active {
+  background: rgb(30,30,30);
+}
+
+.div-active button {
+  filter: invert(1);
+}
+
+.div-deactive button {
+  filter: invert(50%);
 }
 
