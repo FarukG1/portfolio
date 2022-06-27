@@ -17,7 +17,10 @@
 .tab-section {
   background-color: rgb(38,38,38);
   height: 100vh;
-  width: 10%;
+  width: 120px;
+  position: fixed;
+  left: 60px;
+  top: 0;
 }
 
 .icons-active {
@@ -35,7 +38,6 @@
 }
 
 .text-section {
-  background-color: rgb(30,30,30);
   height: 100vh;
   width: 100%;
 }
@@ -63,5 +65,11 @@
 
 .div-deactive button {
   filter: invert(50%);
+}
+
+.custom-pos {
+  position: absolute;
+  top: 20px;
+  z-index: -1;
 }
 
